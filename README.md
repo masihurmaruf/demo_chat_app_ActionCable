@@ -1,7 +1,5 @@
 # README
 
-# README
-
 ## Overview
 
 This is a demo chat application with ActionCable.
